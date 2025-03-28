@@ -1,0 +1,6 @@
+@startuml
+class com.mycompany.eva3_3_try_catch.EVA3_3_TRY_CATCH
+class EVA3_3_TRY_CATCH{
++ main(args: String[]):void
+}
+@enduml
