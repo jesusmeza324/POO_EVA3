@@ -1,0 +1,16 @@
+@startuml
+class com.mycompany.eva3_2_tipos_unchecked_exceptions.EVA3_2_TIPOS_UNCHECKED_EXCEPTIONS
+class java.io.File
+class java.util.Scanner
+com.mycompany.eva3_2_tipos_unchecked_exceptions.EVA3_2_TIPOS_UNCHECKED_EXCEPTIONS ..> java.io.File
+com.mycompany.eva3_2_tipos_unchecked_exceptions.EVA3_2_TIPOS_UNCHECKED_EXCEPTIONS ..> java.util.Scanner
+class EVA3_2_TIPOS_UNCHECKED_EXCEPTIONS {
+    + main(args: String[]): void
+}
+
+class Prueba {
+    + mostrarMensaje(): void
+}
+
+EVA3_1_EXCEPCIONES --> Prueba : usa
+@enduml
