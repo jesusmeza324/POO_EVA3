@@ -1,0 +1,10 @@
+@startuml
+class com.mycompany.eva3_4_tray_catch.EVA3_4_TRAY_CATCH
+class java.util.InputMismatchException
+class java.util.Scanner
+com.mycompany.eva3_4_tray_catch.EVA3_4_TRAY_CATCH ..> java.util.InputMismatchException
+com.mycompany.eva3_4_tray_catch.EVA3_4_TRAY_CATCH ..> java.util.Scanner
+class EVA3_4_TRAY_CATCH {
+    + main(args: String[]): void
+}
+@enduml
