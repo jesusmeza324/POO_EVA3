@@ -1,0 +1,9 @@
+@startuml
+class com.mycompany.eva3_1_excepciones.EVA3_1_EXCEPCIONES
+class EVA3_1_EXCEPCIONES {
+    + main(args: String[]): void
+    + A(): void
+    + B(): void
+    + C(): void
+}
+@enduml
