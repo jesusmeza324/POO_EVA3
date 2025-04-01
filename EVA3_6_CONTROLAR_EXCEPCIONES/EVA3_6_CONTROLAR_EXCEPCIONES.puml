@@ -1,0 +1,10 @@
+@startuml
+class com.mycompany.eva3_6_controlar_excepciones.EVA3_6_CONTROLAR_EXCEPCIONES
+class java.util.InputMismatchException
+class java.util.Scanner
+com.mycompany.eva3_6_controlar_excepciones.EVA3_6_CONTROLAR_EXCEPCIONES ..> java.util.InputMismatchException
+com.mycompany.eva3_6_controlar_excepciones.EVA3_6_CONTROLAR_EXCEPCIONES ..> java.util.Scanner
+class EVA3_6_CONTROLAR_EXCEPCIONES {
+    + main(String[] args) : void
+}
+@enduml
