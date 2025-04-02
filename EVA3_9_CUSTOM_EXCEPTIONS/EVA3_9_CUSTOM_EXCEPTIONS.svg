@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="534px" preserveAspectRatio="none" style="width:1213px;height:534px;background:#FFFFFF;" version="1.1" viewBox="0 0 1213 534" width="1213px" zoomAndPan="magnify">
+    <defs/>
+    <g>
+        <!--cluster com-->
+        <g id="cluster_com">
+            <path d="M836.5,6 L866.5,6 A3.75,3.75 0 0 1 869,8.5 L876,29.6094 L1203.5,29.6094 A2.5,2.5 0 0 1 1206,32.1094 L1206,239.5 A2.5,2.5 0 0 1 1203.5,242 L836.5,242 A2.5,2.5 0 0 1 834,239.5 L834,8.5 A2.5,2.5 0 0 1 836.5,6 " fill="none" style="stroke:#000000;stroke-width:1.5;"/>
+            <line style="stroke:#000000;stroke-width:1.5;" x1="834" x2="876" y1="29.6094" y2="29.6094"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="29" x="838" y="22.5332">com</text>
+        </g>
+        <!--cluster mycompany-->
+        <g id="cluster_mycompany">
+            <path d="M860.5,50 L942.5,50 A3.75,3.75 0 0 1 945,52.5 L952,73.6094 L1179.5,73.6094 A2.5,2.5 0 0 1 1182,76.1094 L1182,215.5 A2.5,2.5 0 0 1 1179.5,218 L860.5,218 A2.5,2.5 0 0 1 858,215.5 L858,52.5 A2.5,2.5 0 0 1 860.5,50 " fill="none" style="stroke:#000000;stroke-width:1.5;"/>
+            <line style="stroke:#000000;stroke-width:1.5;" x1="858" x2="952" y1="73.6094" y2="73.6094"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="81" x="862" y="66.5332">mycompany</text>
+        </g>
+        <!--cluster eva3_9_custom_exceptions-->
+        <g id="cluster_eva3_9_custom_exceptions">
+            <path d="M884.5,94 L1080.5,94 A3.75,3.75 0 0 1 1083,96.5 L1090,117.6094 L1155.5,117.6094 A2.5,2.5 0 0 1 1158,120.1094 L1158,191.5 A2.5,2.5 0 0 1 1155.5,194 L884.5,194 A2.5,2.5 0 0 1 882,191.5 L882,96.5 A2.5,2.5 0 0 1 884.5,94 " fill="none" style="stroke:#000000;stroke-width:1.5;"/>
+            <line style="stroke:#000000;stroke-width:1.5;" x1="882" x2="1090" y1="117.6094" y2="117.6094"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="195" x="886" y="110.5332">eva3_9_custom_exceptions</text>
+        </g>
+        <!--cluster java-->
+        <g id="cluster_java">
+            <path d="M824.5,291 L854.5,291 A3.75,3.75 0 0 1 857,293.5 L864,314.6094 L1126.5,314.6094 A2.5,2.5 0 0 1 1129,317.1094 L1129,524.5 A2.5,2.5 0 0 1 1126.5,527 L824.5,527 A2.5,2.5 0 0 1 822,524.5 L822,293.5 A2.5,2.5 0 0 1 824.5,291 " fill="none" style="stroke:#000000;stroke-width:1.5;"/>
+            <line style="stroke:#000000;stroke-width:1.5;" x1="822" x2="864" y1="314.6094" y2="314.6094"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="29" x="826" y="307.5332">java</text>
+        </g>
+        <!--cluster util-->
+        <g id="cluster_util">
+            <path d="M848.5,335 L871.5,335 A3.75,3.75 0 0 1 874,337.5 L881,358.6094 L1102.5,358.6094 A2.5,2.5 0 0 1 1105,361.1094 L1105,500.5 A2.5,2.5 0 0 1 1102.5,503 L848.5,503 A2.5,2.5 0 0 1 846,500.5 L846,337.5 A2.5,2.5 0 0 1 848.5,335 " fill="none" style="stroke:#000000;stroke-width:1.5;"/>
+            <line style="stroke:#000000;stroke-width:1.5;" x1="846" x2="881" y1="358.6094" y2="358.6094"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="22" x="850" y="351.5332">util</text>
+        </g>
+        <!--cluster logging-->
+        <g id="cluster_logging">
+            <path d="M872.5,379 L926.5,379 A3.75,3.75 0 0 1 929,381.5 L936,402.6094 L1078.5,402.6094 A2.5,2.5 0 0 1 1081,405.1094 L1081,476.5 A2.5,2.5 0 0 1 1078.5,479 L872.5,479 A2.5,2.5 0 0 1 870,476.5 L870,381.5 A2.5,2.5 0 0 1 872.5,379 " fill="none" style="stroke:#000000;stroke-width:1.5;"/>
+            <line style="stroke:#000000;stroke-width:1.5;" x1="870" x2="936" y1="402.6094" y2="402.6094"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="53" x="874" y="395.5332">logging</text>
+        </g>
+        <!--class EVA3_9_CUSTOM_EXCEPTIONS-->
+        <g id="elem_EVA3_9_CUSTOM_EXCEPTIONS">
+            <rect codeLine="1" fill="#F1F1F1" height="48" id="EVA3_9_CUSTOM_EXCEPTIONS" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="244" x="898" y="130"/>
+            <ellipse cx="913" cy="146" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M915.7656,141.875 Q915.9219,141.6563 916.1094,141.5469 Q916.2969,141.4375 916.5156,141.4375 Q916.8906,141.4375 917.125,141.7031 Q917.3594,141.9531 917.3594,142.5625 L917.3594,144.0156 Q917.3594,144.625 917.125,144.8906 Q916.8906,145.1563 916.5156,145.1563 Q916.1719,145.1563 915.9688,144.9531 Q915.7656,144.7656 915.6563,144.25 Q915.6094,143.8906 915.4219,143.7031 Q915.0938,143.3281 914.4844,143.1094 Q913.875,142.8906 913.25,142.8906 Q912.4844,142.8906 911.8438,143.2188 Q911.2188,143.5469 910.7188,144.2969 Q910.2344,145.0469 910.2344,146.0781 L910.2344,147.1719 Q910.2344,148.4063 911.125,149.2344 Q912.0156,150.0469 913.6094,150.0469 Q914.5469,150.0469 915.2031,149.7969 Q915.5938,149.6406 916.0156,149.2031 Q916.2813,148.9375 916.4219,148.8594 Q916.5781,148.7813 916.7813,148.7813 Q917.1094,148.7813 917.3594,149.0469 Q917.625,149.2969 917.625,149.6406 Q917.625,149.9844 917.2813,150.3906 Q916.7813,150.9688 915.9844,151.2969 Q914.9063,151.75 913.6094,151.75 Q912.0938,151.75 910.8906,151.125 Q909.9063,150.625 909.2188,149.5625 Q908.5313,148.4844 908.5313,147.2031 L908.5313,146.0469 Q908.5313,144.7188 909.1406,143.5781 Q909.7656,142.4219 910.8594,141.8125 Q911.9531,141.1875 913.1875,141.1875 Q913.9219,141.1875 914.5625,141.3594 Q915.2188,141.5156 915.7656,141.875 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="212" x="927" y="151.7285">EVA3_9_CUSTOM_EXCEPTIONS</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="899" x2="1141" y1="162" y2="162"/>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="899" x2="1141" y1="170" y2="170"/>
+        </g>
+        <!--class Level-->
+        <g id="elem_Level">
+            <rect codeLine="2" fill="#F1F1F1" height="48" id="Level" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="66" x="999" y="415"/>
+            <ellipse cx="1014" cy="431" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M1016.7656,426.875 Q1016.9219,426.6563 1017.1094,426.5469 Q1017.2969,426.4375 1017.5156,426.4375 Q1017.8906,426.4375 1018.125,426.7031 Q1018.3594,426.9531 1018.3594,427.5625 L1018.3594,429.0156 Q1018.3594,429.625 1018.125,429.8906 Q1017.8906,430.1563 1017.5156,430.1563 Q1017.1719,430.1563 1016.9688,429.9531 Q1016.7656,429.7656 1016.6563,429.25 Q1016.6094,428.8906 1016.4219,428.7031 Q1016.0938,428.3281 1015.4844,428.1094 Q1014.875,427.8906 1014.25,427.8906 Q1013.4844,427.8906 1012.8438,428.2188 Q1012.2188,428.5469 1011.7188,429.2969 Q1011.2344,430.0469 1011.2344,431.0781 L1011.2344,432.1719 Q1011.2344,433.4063 1012.125,434.2344 Q1013.0156,435.0469 1014.6094,435.0469 Q1015.5469,435.0469 1016.2031,434.7969 Q1016.5938,434.6406 1017.0156,434.2031 Q1017.2813,433.9375 1017.4219,433.8594 Q1017.5781,433.7813 1017.7813,433.7813 Q1018.1094,433.7813 1018.3594,434.0469 Q1018.625,434.2969 1018.625,434.6406 Q1018.625,434.9844 1018.2813,435.3906 Q1017.7813,435.9688 1016.9844,436.2969 Q1015.9063,436.75 1014.6094,436.75 Q1013.0938,436.75 1011.8906,436.125 Q1010.9063,435.625 1010.2188,434.5625 Q1009.5313,433.4844 1009.5313,432.2031 L1009.5313,431.0469 Q1009.5313,429.7188 1010.1406,428.5781 Q1010.7656,427.4219 1011.8594,426.8125 Q1012.9531,426.1875 1014.1875,426.1875 Q1014.9219,426.1875 1015.5625,426.3594 Q1016.2188,426.5156 1016.7656,426.875 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="34" x="1028" y="436.7285">Level</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="1000" x2="1064" y1="447" y2="447"/>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="1000" x2="1064" y1="455" y2="455"/>
+        </g>
+        <!--class Logger-->
+        <g id="elem_Logger">
+            <rect codeLine="3" fill="#F1F1F1" height="48" id="Logger" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="77" x="886.5" y="415"/>
+            <ellipse cx="901.5" cy="431" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M904.2656,426.875 Q904.4219,426.6563 904.6094,426.5469 Q904.7969,426.4375 905.0156,426.4375 Q905.3906,426.4375 905.625,426.7031 Q905.8594,426.9531 905.8594,427.5625 L905.8594,429.0156 Q905.8594,429.625 905.625,429.8906 Q905.3906,430.1563 905.0156,430.1563 Q904.6719,430.1563 904.4688,429.9531 Q904.2656,429.7656 904.1563,429.25 Q904.1094,428.8906 903.9219,428.7031 Q903.5938,428.3281 902.9844,428.1094 Q902.375,427.8906 901.75,427.8906 Q900.9844,427.8906 900.3438,428.2188 Q899.7188,428.5469 899.2188,429.2969 Q898.7344,430.0469 898.7344,431.0781 L898.7344,432.1719 Q898.7344,433.4063 899.625,434.2344 Q900.5156,435.0469 902.1094,435.0469 Q903.0469,435.0469 903.7031,434.7969 Q904.0938,434.6406 904.5156,434.2031 Q904.7813,433.9375 904.9219,433.8594 Q905.0781,433.7813 905.2813,433.7813 Q905.6094,433.7813 905.8594,434.0469 Q906.125,434.2969 906.125,434.6406 Q906.125,434.9844 905.7813,435.3906 Q905.2813,435.9688 904.4844,436.2969 Q903.4063,436.75 902.1094,436.75 Q900.5938,436.75 899.3906,436.125 Q898.4063,435.625 897.7188,434.5625 Q897.0313,433.4844 897.0313,432.2031 L897.0313,431.0469 Q897.0313,429.7188 897.6406,428.5781 Q898.2656,427.4219 899.3594,426.8125 Q900.4531,426.1875 901.6875,426.1875 Q902.4219,426.1875 903.0625,426.3594 Q903.7188,426.5156 904.2656,426.875 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="45" x="915.5" y="436.7285">Logger</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="887.5" x2="962.5" y1="447" y2="447"/>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="887.5" x2="962.5" y1="455" y2="455"/>
+        </g>
+        <!--class EVA3_9_CUSTOM_EXCEPTIONS-->
+        <g id="elem_EVA3_9_CUSTOM_EXCEPTIONS">
+            <rect codeLine="6" fill="#F1F1F1" height="65.6094" id="EVA3_9_CUSTOM_EXCEPTIONS" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="244" x="7" y="121"/>
+            <ellipse cx="22" cy="137" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M24.7656,132.875 Q24.9219,132.6563 25.1094,132.5469 Q25.2969,132.4375 25.5156,132.4375 Q25.8906,132.4375 26.125,132.7031 Q26.3594,132.9531 26.3594,133.5625 L26.3594,135.0156 Q26.3594,135.625 26.125,135.8906 Q25.8906,136.1563 25.5156,136.1563 Q25.1719,136.1563 24.9688,135.9531 Q24.7656,135.7656 24.6563,135.25 Q24.6094,134.8906 24.4219,134.7031 Q24.0938,134.3281 23.4844,134.1094 Q22.875,133.8906 22.25,133.8906 Q21.4844,133.8906 20.8438,134.2188 Q20.2188,134.5469 19.7188,135.2969 Q19.2344,136.0469 19.2344,137.0781 L19.2344,138.1719 Q19.2344,139.4063 20.125,140.2344 Q21.0156,141.0469 22.6094,141.0469 Q23.5469,141.0469 24.2031,140.7969 Q24.5938,140.6406 25.0156,140.2031 Q25.2813,139.9375 25.4219,139.8594 Q25.5781,139.7813 25.7813,139.7813 Q26.1094,139.7813 26.3594,140.0469 Q26.625,140.2969 26.625,140.6406 Q26.625,140.9844 26.2813,141.3906 Q25.7813,141.9688 24.9844,142.2969 Q23.9063,142.75 22.6094,142.75 Q21.0938,142.75 19.8906,142.125 Q18.9063,141.625 18.2188,140.5625 Q17.5313,139.4844 17.5313,138.2031 L17.5313,137.0469 Q17.5313,135.7188 18.1406,134.5781 Q18.7656,133.4219 19.8594,132.8125 Q20.9531,132.1875 22.1875,132.1875 Q22.9219,132.1875 23.5625,132.3594 Q24.2188,132.5156 24.7656,132.875 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="212" x="36" y="142.7285">EVA3_9_CUSTOM_EXCEPTIONS</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="250" y1="153" y2="153"/>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="250" y1="161" y2="161"/>
+            <ellipse cx="18" cy="175.3047" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="151" x="27" y="179.5332">main(String[] args): void</text>
+        </g>
+        <!--class Persona-->
+        <g id="elem_Persona">
+            <rect codeLine="10" fill="#F1F1F1" height="241.7031" id="Persona" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="532" x="286" y="33"/>
+            <ellipse cx="521.25" cy="49" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M524.0156,44.875 Q524.1719,44.6563 524.3594,44.5469 Q524.5469,44.4375 524.7656,44.4375 Q525.1406,44.4375 525.375,44.7031 Q525.6094,44.9531 525.6094,45.5625 L525.6094,47.0156 Q525.6094,47.625 525.375,47.8906 Q525.1406,48.1563 524.7656,48.1563 Q524.4219,48.1563 524.2188,47.9531 Q524.0156,47.7656 523.9063,47.25 Q523.8594,46.8906 523.6719,46.7031 Q523.3438,46.3281 522.7344,46.1094 Q522.125,45.8906 521.5,45.8906 Q520.7344,45.8906 520.0938,46.2188 Q519.4688,46.5469 518.9688,47.2969 Q518.4844,48.0469 518.4844,49.0781 L518.4844,50.1719 Q518.4844,51.4063 519.375,52.2344 Q520.2656,53.0469 521.8594,53.0469 Q522.7969,53.0469 523.4531,52.7969 Q523.8438,52.6406 524.2656,52.2031 Q524.5313,51.9375 524.6719,51.8594 Q524.8281,51.7813 525.0313,51.7813 Q525.3594,51.7813 525.6094,52.0469 Q525.875,52.2969 525.875,52.6406 Q525.875,52.9844 525.5313,53.3906 Q525.0313,53.9688 524.2344,54.2969 Q523.1563,54.75 521.8594,54.75 Q520.3438,54.75 519.1406,54.125 Q518.1563,53.625 517.4688,52.5625 Q516.7813,51.4844 516.7813,50.2031 L516.7813,49.0469 Q516.7813,47.7188 517.3906,46.5781 Q518.0156,45.4219 519.1094,44.8125 Q520.2031,44.1875 521.4375,44.1875 Q522.1719,44.1875 522.8125,44.3594 Q523.4688,44.5156 524.0156,44.875 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="53" x="541.75" y="54.7285">Persona</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="287" x2="817" y1="65" y2="65"/>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="294" y="76.3047"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="93" x="306" y="83.5332">nombre: String</text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="294" y="93.9141"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="94" x="306" y="101.1426">apellido: String</text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="294" y="111.5234"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="55" x="306" y="118.752">edad: int</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="287" x2="817" y1="125.8281" y2="125.8281"/>
+            <ellipse cx="297" cy="140.1328" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="63" x="306" y="144.3613">Persona()</text>
+            <ellipse cx="297" cy="157.7422" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="506" x="306" y="161.9707">Persona(String nombre, String apellido, int edad) throws DatoIncorrectoCheckEx</text>
+            <ellipse cx="297" cy="175.3516" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="124" x="306" y="179.5801">getNombre(): String</text>
+            <ellipse cx="297" cy="192.9609" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="201" x="306" y="197.1895">setNombre(String nombre): void</text>
+            <ellipse cx="297" cy="210.5703" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="125" x="306" y="214.7988">getApellido(): String</text>
+            <ellipse cx="297" cy="228.1797" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="203" x="306" y="232.4082">setApellido(String apellido): void</text>
+            <ellipse cx="297" cy="245.7891" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="86" x="306" y="250.0176">getEdad(): int</text>
+            <ellipse cx="297" cy="263.3984" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="310" x="306" y="267.627">setEdad(int edad) throws DatoIncorrectoCheckEx</text>
+        </g>
+        <!--class DatoIncorrectoException-->
+        <g id="elem_DatoIncorrectoException">
+            <rect codeLine="24" fill="#F1F1F1" height="65.6094" id="DatoIncorrectoException" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="190" x="34" y="406"/>
+            <ellipse cx="50.8" cy="422" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M53.5656,417.875 Q53.7219,417.6563 53.9094,417.5469 Q54.0969,417.4375 54.3156,417.4375 Q54.6906,417.4375 54.925,417.7031 Q55.1594,417.9531 55.1594,418.5625 L55.1594,420.0156 Q55.1594,420.625 54.925,420.8906 Q54.6906,421.1563 54.3156,421.1563 Q53.9719,421.1563 53.7688,420.9531 Q53.5656,420.7656 53.4563,420.25 Q53.4094,419.8906 53.2219,419.7031 Q52.8938,419.3281 52.2844,419.1094 Q51.675,418.8906 51.05,418.8906 Q50.2844,418.8906 49.6438,419.2188 Q49.0188,419.5469 48.5188,420.2969 Q48.0344,421.0469 48.0344,422.0781 L48.0344,423.1719 Q48.0344,424.4063 48.925,425.2344 Q49.8156,426.0469 51.4094,426.0469 Q52.3469,426.0469 53.0031,425.7969 Q53.3938,425.6406 53.8156,425.2031 Q54.0813,424.9375 54.2219,424.8594 Q54.3781,424.7813 54.5813,424.7813 Q54.9094,424.7813 55.1594,425.0469 Q55.425,425.2969 55.425,425.6406 Q55.425,425.9844 55.0813,426.3906 Q54.5813,426.9688 53.7844,427.2969 Q52.7063,427.75 51.4094,427.75 Q49.8938,427.75 48.6906,427.125 Q47.7063,426.625 47.0188,425.5625 Q46.3313,424.4844 46.3313,423.2031 L46.3313,422.0469 Q46.3313,420.7188 46.9406,419.5781 Q47.5656,418.4219 48.6594,417.8125 Q49.7531,417.1875 50.9875,417.1875 Q51.7219,417.1875 52.3625,417.3594 Q53.0188,417.5156 53.5656,417.875 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="154" x="65.2" y="427.7285">DatoIncorrectoException</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="35" x2="223" y1="438" y2="438"/>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="35" x2="223" y1="446" y2="446"/>
+            <ellipse cx="45" cy="460.3047" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="164" x="54" y="464.5332">DatoIncorrectoException()</text>
+        </g>
+        <!--class DatoIncorrectoCheckEx-->
+        <g id="elem_DatoIncorrectoCheckEx">
+            <rect codeLine="28" fill="#F1F1F1" height="65.6094" id="DatoIncorrectoCheckEx" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="184" x="259" y="406"/>
+            <ellipse cx="275.8" cy="422" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M278.5656,417.875 Q278.7219,417.6563 278.9094,417.5469 Q279.0969,417.4375 279.3156,417.4375 Q279.6906,417.4375 279.925,417.7031 Q280.1594,417.9531 280.1594,418.5625 L280.1594,420.0156 Q280.1594,420.625 279.925,420.8906 Q279.6906,421.1563 279.3156,421.1563 Q278.9719,421.1563 278.7688,420.9531 Q278.5656,420.7656 278.4563,420.25 Q278.4094,419.8906 278.2219,419.7031 Q277.8938,419.3281 277.2844,419.1094 Q276.675,418.8906 276.05,418.8906 Q275.2844,418.8906 274.6438,419.2188 Q274.0188,419.5469 273.5188,420.2969 Q273.0344,421.0469 273.0344,422.0781 L273.0344,423.1719 Q273.0344,424.4063 273.925,425.2344 Q274.8156,426.0469 276.4094,426.0469 Q277.3469,426.0469 278.0031,425.7969 Q278.3938,425.6406 278.8156,425.2031 Q279.0813,424.9375 279.2219,424.8594 Q279.3781,424.7813 279.5813,424.7813 Q279.9094,424.7813 280.1594,425.0469 Q280.425,425.2969 280.425,425.6406 Q280.425,425.9844 280.0813,426.3906 Q279.5813,426.9688 278.7844,427.2969 Q277.7063,427.75 276.4094,427.75 Q274.8938,427.75 273.6906,427.125 Q272.7063,426.625 272.0188,425.5625 Q271.3313,424.4844 271.3313,423.2031 L271.3313,422.0469 Q271.3313,420.7188 271.9406,419.5781 Q272.5656,418.4219 273.6594,417.8125 Q274.7531,417.1875 275.9875,417.1875 Q276.7219,417.1875 277.3625,417.3594 Q278.0188,417.5156 278.5656,417.875 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="148" x="290.2" y="427.7285">DatoIncorrectoCheckEx</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="260" x2="442" y1="438" y2="438"/>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="260" x2="442" y1="446" y2="446"/>
+            <ellipse cx="270" cy="460.3047" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="158" x="279" y="464.5332">DatoIncorrectoCheckEx()</text>
+        </g>
+        <!--link EVA3_9_CUSTOM_EXCEPTIONS to Level-->
+        <g id="link_EVA3_9_CUSTOM_EXCEPTIONS_Level">
+            <path codeLine="4" d="M1020.98,178.16 C1023.24,231.36 1028.5161,355.7954 1030.7661,408.9254 " fill="none" id="EVA3_9_CUSTOM_EXCEPTIONS-to-Level" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/>
+            <polygon fill="#181818" points="1031.02,414.92,1034.6356,405.7588,1030.8084,409.9245,1026.6428,406.0973,1031.02,414.92" style="stroke:#181818;stroke-width:1.0;"/>
+        </g>
+        <!--link EVA3_9_CUSTOM_EXCEPTIONS to Logger-->
+        <g id="link_EVA3_9_CUSTOM_EXCEPTIONS_Logger">
+            <path codeLine="5" d="M1012.23,178.16 C994.37,231.36 952.4889,356.1018 934.6589,409.2318 " fill="none" id="EVA3_9_CUSTOM_EXCEPTIONS-to-Logger" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/>
+            <polygon fill="#181818" points="932.75,414.92,939.4055,407.6603,934.3408,410.1798,931.8212,405.115,932.75,414.92" style="stroke:#181818;stroke-width:1.0;"/>
+        </g>
+        <!--SRC=[jPB1IyCm5CRl_IjoNDdCnPCz2AFsCD1jq2c2ICdIHnTDav9aTKFytqsxjqgh1K7CeQ7lu_jzxoNXabbBk2vfUVJVYgaZXPfTPbSPtrkdommE72edjB8qUPWtGdoVRbPtMV8O9-lDOhLC0zvINbZDwDu9IQKk2g4AUWiro77Lxs22FuOJIg_7e_-7ZOstSurwtmFYrvIKJAX9wentFZqJPWeRHgJM8Wy-0cIimLYj65ekYDBbra14JYuiiWga5BaUb25dUKI4SXY7h4au-3-P43r3HWUTDOIM5HAtC_hDaXlcz49nRGnmf-CTyDVaWD02tB85JS9UErDYEwKNU1wviyyn-2T0fmsQ_0P9VByDu6jwYyLVJjFTG5zEpa-ZkyGHtP_o208JHW2eDlPF]-->
+    </g>
+</svg>
