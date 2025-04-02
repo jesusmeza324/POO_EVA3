@@ -1,0 +1,14 @@
+@startuml
+class com.mycompany.eva3_8_throw.EVA3_8_THROW
+class java.util.logging.Level
+class java.util.logging.Logger
+com.mycompany.eva3_8_throw.EVA3_8_THROW ..> java.util.logging.Level
+com.mycompany.eva3_8_throw.EVA3_8_THROW ..> java.util.logging.Logger
+class EVA3_8_THROW {
+    + main(String[] args): void
+    + division(int val1, int val2): void
+}
+
+class Logger
+class Level
+@enduml
