@@ -1,0 +1,36 @@
+@startuml
+class com.mycompany.eva3_10_read_txt_file.EVA3_10_READ_TXT_FILE
+class java.io.BufferedReader
+class java.io.File
+class java.io.FileInputStream
+class java.io.FileNotFoundException
+class java.io.FileReader
+class java.io.IOException
+class java.io.InputStreamReader
+class java.nio.file.Files
+class java.nio.file.Path
+class java.nio.file.Paths
+class java.util.Scanner
+class java.util.logging.Level
+class java.util.logging.Logger
+com.mycompany.eva3_10_read_txt_file.EVA3_10_READ_TXT_FILE ..> java.io.BufferedReader
+com.mycompany.eva3_10_read_txt_file.EVA3_10_READ_TXT_FILE ..> java.io.File
+com.mycompany.eva3_10_read_txt_file.EVA3_10_READ_TXT_FILE ..> java.io.FileInputStream
+com.mycompany.eva3_10_read_txt_file.EVA3_10_READ_TXT_FILE ..> java.io.FileNotFoundException
+com.mycompany.eva3_10_read_txt_file.EVA3_10_READ_TXT_FILE ..> java.io.FileReader
+com.mycompany.eva3_10_read_txt_file.EVA3_10_READ_TXT_FILE ..> java.io.IOException
+com.mycompany.eva3_10_read_txt_file.EVA3_10_READ_TXT_FILE ..> java.io.InputStreamReader
+com.mycompany.eva3_10_read_txt_file.EVA3_10_READ_TXT_FILE ..> java.nio.file.Files
+com.mycompany.eva3_10_read_txt_file.EVA3_10_READ_TXT_FILE ..> java.nio.file.Path
+com.mycompany.eva3_10_read_txt_file.EVA3_10_READ_TXT_FILE ..> java.nio.file.Paths
+com.mycompany.eva3_10_read_txt_file.EVA3_10_READ_TXT_FILE ..> java.util.Scanner
+com.mycompany.eva3_10_read_txt_file.EVA3_10_READ_TXT_FILE ..> java.util.logging.Level
+com.mycompany.eva3_10_read_txt_file.EVA3_10_READ_TXT_FILE ..> java.util.logging.Logger
+class EVA3_10_READ_TXT_FILE {
+    +main(args: String[]): void
+    +readUsingFiles(ruta: String): void
+    +readUsingBufferedReader(ruta: String): void
+    +readUsingFileReader(ruta: String): void
+    +readUsingScanner(ruta: String): void
+}
+@enduml
