@@ -1,0 +1,27 @@
+@startuml
+class com.mycompany.eva3_11_escritura.EVA3_11_ESCRITURA
+class java.io.BufferedWriter
+class java.io.File
+class java.io.FileWriter
+class java.io.IOException
+class java.nio.file.Files
+class java.nio.file.Path
+class java.nio.file.Paths
+class java.util.logging.Level
+class java.util.logging.Logger
+com.mycompany.eva3_11_escritura.EVA3_11_ESCRITURA ..> java.io.BufferedWriter
+com.mycompany.eva3_11_escritura.EVA3_11_ESCRITURA ..> java.io.File
+com.mycompany.eva3_11_escritura.EVA3_11_ESCRITURA ..> java.io.FileWriter
+com.mycompany.eva3_11_escritura.EVA3_11_ESCRITURA ..> java.io.IOException
+com.mycompany.eva3_11_escritura.EVA3_11_ESCRITURA ..> java.nio.file.Files
+com.mycompany.eva3_11_escritura.EVA3_11_ESCRITURA ..> java.nio.file.Path
+com.mycompany.eva3_11_escritura.EVA3_11_ESCRITURA ..> java.nio.file.Paths
+com.mycompany.eva3_11_escritura.EVA3_11_ESCRITURA ..> java.util.logging.Level
+com.mycompany.eva3_11_escritura.EVA3_11_ESCRITURA ..> java.util.logging.Logger
+    class EVA3_11_ESCRITURA {
+        +main(String[] args) : void
+        +writeUsingFiles(String ruta, String datos) : void
+        +writeUsingFileWriter(String ruta, String datos) : void
+        +writeUsingBufferedWriter(String ruta) : void
+    }
+@enduml
